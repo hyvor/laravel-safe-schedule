@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler\Command;
+namespace Hyvor\LaravelSafeSchedule\Command;
 
 class StatusCommand
 {

@@ -1,6 +1,6 @@
 {
-    "name": "hyvor/laravel-safe-scheduler",
-    "description": "A fault-tolerant scheduler for Laravel",
+    "name": "hyvor/laravel-safe-schedule",
+    "description": "A fault-tolerant scheduler for Laravel that doesn't skip jobs when the server is down.",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,12 +11,12 @@
     ],
     "autoload": {
         "psr-4": {
-            "Hyvor\\LaravelSafeScheduler\\": "src"
+            "Hyvor\\LaravelSafeSchedule\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Hyvor\\LaravelSafeScheduler\\Tests\\": "tests"
+            "Hyvor\\LaravelSafeSchedule\\Tests\\": "tests"
         }
     },
     "require-dev": {

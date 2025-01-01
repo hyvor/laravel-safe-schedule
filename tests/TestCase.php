@@ -1,8 +1,8 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler\Tests;
+namespace Hyvor\LaravelSafeSchedule\Tests;
 
-use Hyvor\LaravelSafeScheduler\ServiceProvider;
+use Hyvor\LaravelSafeSchedule\ServiceProvider;
 
 class TestCase extends \Orchestra\Testbench\TestCase
 {

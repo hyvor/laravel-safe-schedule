@@ -1,10 +1,10 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler\Tests\Unit;
+namespace Hyvor\LaravelSafeSchedule\Tests\Unit;
 
-use Hyvor\LaravelSafeScheduler\SafeSchedule;
-use Hyvor\LaravelSafeScheduler\Tests\Jobs\BasicJob;
-use Hyvor\LaravelSafeScheduler\Tests\TestCase;
+use Hyvor\LaravelSafeSchedule\SafeSchedule;
+use Hyvor\LaravelSafeSchedule\Tests\Jobs\BasicJob;
+use Hyvor\LaravelSafeSchedule\Tests\TestCase;
 
 class SafeScheduleTest extends TestCase
 {

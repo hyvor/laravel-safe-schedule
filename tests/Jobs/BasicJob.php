@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler\Tests\Jobs;
+namespace Hyvor\LaravelSafeSchedule\Tests\Jobs;
 
 class BasicJob
 {

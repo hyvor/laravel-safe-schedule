@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler;
+namespace Hyvor\LaravelSafeSchedule;
 
 use Cron\CronExpression;
 use Illuminate\Console\Scheduling\ManagesFrequencies;

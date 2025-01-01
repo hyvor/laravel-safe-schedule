@@ -1,6 +1,6 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler;
+namespace Hyvor\LaravelSafeSchedule;
 
 class SafeSchedule
 {

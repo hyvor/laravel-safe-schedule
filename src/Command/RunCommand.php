@@ -1,9 +1,9 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler\Command;
+namespace Hyvor\LaravelSafeSchedule\Command;
 
-use Hyvor\LaravelSafeScheduler\ConfiguredJob;
-use Hyvor\LaravelSafeScheduler\SafeSchedule;
+use Hyvor\LaravelSafeSchedule\ConfiguredJob;
+use Hyvor\LaravelSafeSchedule\SafeSchedule;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;

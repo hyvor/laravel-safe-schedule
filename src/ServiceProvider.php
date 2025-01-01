@@ -1,8 +1,8 @@
 <?php
 
-namespace Hyvor\LaravelSafeScheduler;
+namespace Hyvor\LaravelSafeSchedule;
 
-use Hyvor\LaravelSafeScheduler\Command\RunCommand;
+use Hyvor\LaravelSafeSchedule\Command\RunCommand;
 
 class ServiceProvider extends \Illuminate\Support\ServiceProvider
 {
