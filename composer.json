@@ -29,5 +29,8 @@
                 "Hyvor\\LaravelSafeScheduler\\ServiceProvider"
             ]
         }
+    },
+    "require": {
+        "dragonmantank/cron-expression": "^3.4"
     }
 }
