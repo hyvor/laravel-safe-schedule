@@ -1,0 +1,33 @@
+{
+    "name": "hyvor/laravel-safe-scheduler",
+    "description": "A fault-tolerant scheduler for Laravel",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Supun Wimalasena",
+            "email": "supun@hyvor.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Hyvor\\LaravelSafeScheduler\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Hyvor\\LaravelSafeScheduler\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "orchestra/testbench": "^9.0",
+        "phpunit/phpunit": "^11.5"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Hyvor\\LaravelSafeScheduler\\ServiceProvider"
+            ]
+        }
+    }
+}
